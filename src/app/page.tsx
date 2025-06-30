@@ -5,7 +5,7 @@ export default async function Home() {
   // const data = await res.json();
   return (
     <div>
-      djschsdbch
+      djschsdbc
     </div>
   );
 }
